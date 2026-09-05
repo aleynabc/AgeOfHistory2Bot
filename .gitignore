@@ -1,54 +1,104 @@
-# Python
+# ============================================
+# Age Of History 2 Bot - Git Ignore
+# ============================================
+
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environments
+# Python virtual environments
 .venv/
 venv/
 env/
 ENV/
+.env/
+.venv/
 
-# Python packaging
-*.egg-info/
-.eggs/
-dist/
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build directories
 build/
+dist/
 
 # PyInstaller
 *.spec.bak
+*.manifest
+*.toc
 
-# Application build output
+# Installer output
 installer_output/
-output/
+
+# Temporary installer files
+*.tmp
+*.temp
 
 # Logs
 *.log
 
-# Temporary files
-*.tmp
-*.temp
+# Runtime / temporary files
 *.bak
 *.swp
 *.swo
+*.tmp
 
-# Windows
+# Windows thumbnail cache
 Thumbs.db
+ehthumbs.db
+
+# Windows desktop configuration
 Desktop.ini
 
-# IDE
+# IDE - Visual Studio Code
 .vscode/
-.idea/
+*.code-workspace
 
-# Test / coverage
+# IDE - JetBrains
+.idea/
+*.iml
+
+# Python IDE
+*.pyc
+
+# Testing / coverage
 .pytest_cache/
 .coverage
 htmlcov/
+.tox/
+.nox/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
 
 # OS generated files
 .DS_Store
 
-# Secrets / environment
-.env
-.env.*
-!.env.example
+# Archive files
+*.zip
+*.rar
+*.7z
+
+# Generated executables
+*.exe
+
+# Generated installers
+*.msi
+
+# Temporary build artifacts
+*.pdb
+*.bin
+
+# Backup files
+*~
+*.orig
+
+# Local configuration
+config.local.*
+settings.local.*
+
+# ============================================
+# End of file
+# ============================================
