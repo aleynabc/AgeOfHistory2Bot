@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# PyInstaller
+*.spec.bak
+
+# Application build output
+installer_output/
+output/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS generated files
+.DS_Store
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
