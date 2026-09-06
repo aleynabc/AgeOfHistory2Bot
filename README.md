@@ -8,6 +8,18 @@
 >
 > A fast, convenient and multilingual cheat command / console bot for Age of History 2.
 
+<p align="center">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381680/b6373eb30935520f2fd04fbaf1cc4f798f7285ee/header.jpg" alt="Age of History 2: Definitive Edition" width="600"/>
+</p>
+
+---
+
+> **💡 Bu proje neden var?**
+> Her proje büyük bir ürün olmak zorunda değil. AgeOfHistory2Bot, Age of History 2 oynarken aynı komutları tekrar tekrar elle yazmak yerine hızlı ve güvenilir bir arayüzden göndermek isteğimden doğdu. Bu projeyi Python ile masaüstü uygulama geliştirme, çoklu dil desteği kurgulama ve PyInstaller ile paketleme/dağıtım sürecini öğrenmek için geliştirdim.
+>
+> **💡 Why does this project exist?**
+> Not every project has to be a large-scale product. AgeOfHistory2Bot came from wanting a faster, more reliable way to send repeated in-game commands in Age of History 2, instead of typing them manually every time. I built this project to learn desktop application development in Python, designing multilingual support, and the packaging and distribution process with PyInstaller.
+
 ---
 
 ## 📥 Download / İndirme
@@ -22,7 +34,7 @@ Hazır sürümü kullanmak için Python, pip, PyInstaller veya Visual Studio kur
 
 Botun kaynak ve proje dosyaları `AgeOfHistory2Bot_Professional_v1.1.2.zip` arşivinde bulunmaktadır.
 
-Video Linki: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
+🎥 Tanıtım Videosu: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
 
 ### 🇬🇧 English
 
@@ -34,7 +46,7 @@ Python, pip, PyInstaller, or Visual Studio is not required to use the ready-to-u
 
 The bot's source and project files are included in the `AgeOfHistory2Bot_Professional_v1.1.2.zip` archive.
 
-Video Linki: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
+🎥 Demo Video: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
 
 ---
 
@@ -52,19 +64,19 @@ Proje, aşağıdaki teknoloji ve araçlar kullanılarak geliştirilmiştir:
 - 🎨 **Özel simgeler** (`app_icon.ico`, `titlebar_icon.png`) — Uygulamanın görsel kimliği için özel olarak hazırlanmış ikonlardır.
 - 📜 **MIT License** — Proje açık kaynak MIT lisansı ile paylaşılmıştır.
 
-Kısacası proje, Python ile yazılmış bir masaüstü overlay uygulamasını, kullanıcıya Python kurulumu gerektirmeden tek bir `.exe` kurulum dosyası halinde sunacak şekilde paketlemektedir.
+Kısacası proje, Python ile yazılmış bir masaüstü overlay uygulamasını, kullanıcıya Python kurulumu gerektirmeden tek bir `.exe` kurulum dosyası hâlinde sunacak şekilde paketlemektedir.
 
 ### 🇬🇧 English
 
 The project was built using the following technologies and tools:
 
 - 🐍 **Python** — The bot's core logic and overlay interface (`overlay.py`) are written in Python.
-- 📦 **requirements.txt** — Project dependencies are managed through this file; check it directly for the exact library list.
+- 📦 **requirements.txt** — Project dependencies are managed through this file; refer to it directly for the exact library list.
 - 🛠️ **PyInstaller** (`AgeOfHistory2Bot.spec`) — Used to bundle the Python source code into a standalone Windows `.exe` executable.
 - 🪟 **Inno Setup** (`installer.iss`) — Used to build a professional Windows installer package.
 - ⚙️ **Batch / PowerShell** (`build.bat`, `OTOMATIK_OLUSTUR.bat`, `otomatik_olustur.ps1`) — Automation scripts that handle the build pipeline: installing Python dependencies, compiling with PyInstaller, and packaging with Inno Setup.
 - 🎨 **Custom icons** (`app_icon.ico`, `titlebar_icon.png`) — Custom-made icons for the application's visual identity.
-- 📜 **MIT License** — The project is open-sourced under the MIT license.
+- 📜 **MIT License** — The project is open-sourced under the MIT License.
 
 In short, the project packages a Python-based desktop overlay application into a single `.exe` installer, so end users don't need Python installed to run it.
 
@@ -145,6 +157,10 @@ In short, the project packages a Python-based desktop overlay application into a
 - 🪟 Windows shortcut support
 - 🔐 ASCII-based command sending
 - 🎨 Modern and user-friendly interface
+
+<p align="center">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3381680/729f2a1beb2c793f8fa3430ba46a477c7e2c3a49/library_hero.jpg" alt="Age of History 2: Definitive Edition gameplay artwork" width="600"/>
+</p>
 
 ---
 
@@ -303,3 +319,10 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Ayrıntılar için [LICEN
 ### 🇬🇧 English
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center"><sub>
+Age of History 2: Definitive Edition görselleri © Łukasz Jakowski Games — resmi Steam mağaza sayfasından alınmıştır. AgeOfHistory2Bot bağımsız, üçüncü taraf bir araçtır ve oyunun geliştiricisiyle bağlantılı değildir.<br/>
+Age of History 2: Definitive Edition artwork © Łukasz Jakowski Games, sourced from the official Steam store page. AgeOfHistory2Bot is an independent, third-party tool and is not affiliated with the game's developer.
+</sub></p>
