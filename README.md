@@ -22,7 +22,7 @@ Hazır sürümü kullanmak için Python, pip, PyInstaller veya Visual Studio kur
 
 Botun kaynak ve proje dosyaları `AgeOfHistory2Bot_Professional_v1.1.2.zip` arşivinde bulunmaktadır.
 
-Video Linki:https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
+Video Linki: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
 
 ### 🇬🇧 English
 
@@ -34,7 +34,8 @@ Python, pip, PyInstaller, or Visual Studio is not required to use the ready-to-u
 
 The bot's source and project files are included in the `AgeOfHistory2Bot_Professional_v1.1.2.zip` archive.
 
-Video Link:https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
+Video Linki: https://drive.google.com/file/d/1mk8EjDeIUhOmW2ObzSSbMstGKfNVAhTY/view?usp=sharing
+
 ---
 
 ## 🧰 Technologies Used / Kullanılan Teknolojiler
