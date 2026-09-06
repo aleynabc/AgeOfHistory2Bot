@@ -109,7 +109,7 @@ In short, the project packages a Python-based desktop overlay application into a
 ### 🇹🇷 Türkçe
 
 1. Botu masaüstü kısayolundan başlatın; karşınıza küçük bir overlay penceresi gelecektir.
-2. Overlay penceresinden kullanmak istediğiniz dili seçin (8 dil desteklenmektedir).
+2. Overlay penceresinden kullanmak istediğiniz dili seçin (3 dil desteklenmektedir).
 3. Age of History 2 oyununu açın ve oyun içinde komut göndermek istediğiniz ekranda olun.
 4. Overlay üzerindeki komut listesinden veya metin kutusundan istediğiniz cheat ya da konsol komutunu seçin/yazın.
 5. Komutu gönderin; bot, komutu oyuna ASCII tabanlı güvenli bir şekilde iletecektir.
@@ -121,7 +121,7 @@ In short, the project packages a Python-based desktop overlay application into a
 ### 🇬🇧 English
 
 1. Launch the bot from the desktop shortcut; a small overlay window will appear.
-2. Select your preferred language from the overlay (8 languages supported).
+2. Select your preferred language from the overlay (3 languages supported).
 3. Open Age of History 2 and be on the screen where you want to send a command.
 4. Choose or type the cheat or console command you want from the overlay's command list or text box.
 5. Send the command; the bot will deliver it to the game using a safe, ASCII-based method.
@@ -171,13 +171,8 @@ In short, the project packages a Python-based desktop overlay application into a
 Uygulama aşağıdaki 8 dili desteklemektedir:
 
 - 🇹🇷 Türkçe
-- 🇬🇧 English
-- 🇷🇺 Русский
-- 🇮🇹 Italiano
-- 🇫🇷 Français
-- 🇸🇦 العربية
-- 🇰🇿 Қазақша
-- 🇦🇿 Azərbaycanca
+- 🇬🇧 ingilizce
+- 🇩🇪 Almanca
 
 ### 🇬🇧 English
 
@@ -185,12 +180,7 @@ The application supports the following 8 languages:
 
 - 🇹🇷 Turkish
 - 🇬🇧 English
-- 🇷🇺 Russian
-- 🇮🇹 Italian
-- 🇫🇷 French
-- 🇸🇦 Arabic
-- 🇰🇿 Kazakh
-- 🇦🇿 Azerbaijani
+- 🇩🇪 German
 
 ---
 
